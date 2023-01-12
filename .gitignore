@@ -1,4 +1,5 @@
 # hidden files
+# .idea
 .*
 !.git*
 !.editorconfig
